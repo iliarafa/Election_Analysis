@@ -8,7 +8,7 @@ total vote percentage per county, as well as an answer as to which county had th
 
 ## Audit Results
 
-- A total of 369,711 were cast.
+- A total of 369,711 votes were cast.
 
 - **Denver** had the largest number of votes with 306,055 which accounts for 82.8% of total vote.
 
