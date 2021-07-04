@@ -2,9 +2,9 @@
 
 ### Overview of project
 
-This analysis aims to answer three additional questions put forth by the election committee 
-following the initial election audit results. The committee has requested values for voter turnout and 
-total vote percentage per county as well as an answer as to which county had the highest turnout. 
+This analysis aims to answer three additional questions put forth by the election commission 
+following the initial election audit results. The commission has requested values for voter turnout and 
+total vote percentage per county, as well as an answer as to which county had the highest turnout. 
 
 ## Audit Results
 
