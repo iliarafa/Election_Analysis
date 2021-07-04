@@ -8,7 +8,7 @@ total vote percentage per county as well as an answer as to which county had the
 
 ## Audit Results
 
-- A total of 369,711 were cast
+- A total of 369,711 were cast.
 
 - **Denver** had the largest number of votes with 306,055 which accounts for 82.8% of total vote.
 
@@ -17,14 +17,7 @@ total vote percentage per county as well as an answer as to which county had the
   
 - The winning candidate was **Diana DeGette**, who secured 73.8% of total vote with 272,892 votes.
 
-- 
-
-
-
-
-
-
-
-Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-
-Which county had the largest number of votes?
+- Second to the finish line was Charles Casper Stockham, earning 85,213 votes for 23.0% of the total vote
+  followed in the distance by Raymon Anthony Doane who received 11,606 votes and 3.1% of total vote. 
+  
+  
